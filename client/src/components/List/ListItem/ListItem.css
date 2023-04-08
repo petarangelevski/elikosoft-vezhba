@@ -1,0 +1,55 @@
+.card {
+  transition: all 0.3s linear;
+}
+
+.card-body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.card:hover{
+  transform: scale(1.05);
+  box-shadow: #102a42 0px 5px 15px;
+}
+
+.vp-btn {
+  background-color: black;
+  border-color: black;
+}
+
+.atc-btn {
+  background-color: whitesmoke;
+  border-color: black;
+}
+
+.vp-btn:hover {
+  background-color: black;
+  border-color: black;
+  box-shadow: #6d6d6e 0px 5px 5px;
+}
+
+.atc-btn:hover {
+  background-color: whitesmoke;
+  border-color: black;
+  box-shadow: #6d6d6e 0px 5px 5px;
+}
+
+.listItem-wrap{
+  width: 100%;
+  height: 100%;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: 100%;
+}
+
+.image-tag{
+  height: 300px;
+  width: 455px;
+}
+
+.product-name{
+  font-size: 1rem;
+}

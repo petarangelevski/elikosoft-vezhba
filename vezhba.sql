@@ -1,0 +1,1 @@
+SELECT * FROM hat_store.product_image;
